@@ -26,5 +26,5 @@ Progressive Web Application en un Dispositivo Movil.
 # Licencias
     Ciencias-Math-App@v9
     │ └── GNU General Public License v3.0
-    ├─┬ SASS AND TEMPLATES
+    ├─┬ CSS AND TEMPLATES
     │ └── MIT License - Copyright (c) 2017 Creative Tim (http://www.creative-tim.com)
