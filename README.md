@@ -23,7 +23,7 @@ Progressive Web Application en un Dispositivo Movil.
 - Reportes Graficos.
 - Ruta optima desde origen hacia ubicacion del alumno.
 
-## Licencias
+# Licencias
     Ciencias-Math-App@v9
     │ └── GNU General Public License v3.0
     ├─┬ SASS AND TEMPLATES
