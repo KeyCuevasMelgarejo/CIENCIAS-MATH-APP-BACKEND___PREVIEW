@@ -6,6 +6,7 @@
 Progressive Web Application en un Dispositivo Movil.
 
 **Nota: Si quieres ver la funcionalidad casi completa del proyecto, [ingresa al video](https://youtu.be/lI0zs9B2tho) que he subido a YOUTUBE.
+
 <p align="center"> 
     <img src="https://github.com/KeyCuevasMelgarejo/CIENCIAS-MATH-APP-BACKEND___PREVIEW/blob/master/Demo.gif"/>
 </p>
