@@ -8,7 +8,10 @@ Progressive Web Application en un Dispositivo Movil.
 
 **Nota: Si quieres ver la funcionalidad casi completa del proyecto, [ingresa al video](https://youtu.be/lI0zs9B2tho) que he subido a YOUTUBE.
 
-![YouTube Video Views](https://img.shields.io/youtube/views/lI0zs9B2tho?label=Reproducciones&style=social)
+<p align="right"> 
+    <a href="https://youtu.be/lI0zs9B2tho"><img src="https://img.shields.io/youtube/views/lI0zs9B2tho?label=Reproducciones&style=social"/></a>
+</p>
+
 <p align="center"> 
     <img src="/Demo.gif"/>
 </p>
