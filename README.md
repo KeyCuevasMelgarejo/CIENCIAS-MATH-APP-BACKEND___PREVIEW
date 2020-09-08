@@ -6,8 +6,9 @@
 Progressive Web Application en un Dispositivo Movil.
 
 **Nota: Si quieres ver la funcionalidad casi completa del proyecto, [ingresa al video](https://youtu.be/lI0zs9B2tho) que he subido a YOUTUBE.
-
+<p align="center"> 
 ![](Demo.gif)
+</p>
 
 # CIENCIAS-MATH-APP-BACKEND - Descripción del Proyecto
 **App creada para Ciencias Math, una empresa de enseñanza a domicilio, similar a aplicaciones como Uber, Globo, etc. La aplicación corresponde a los siguientes requerimientos:**
