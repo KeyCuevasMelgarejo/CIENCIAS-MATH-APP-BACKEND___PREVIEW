@@ -2,7 +2,7 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# CIENCIAS-MATH-APP-BACKEND - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP-BACKEND___PREVIEW)
+# Ciencias Math App Backend - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP-BACKEND___PREVIEW)
 Progressive Web Application en un Dispositivo Movil.
 
 **Nota: Si quieres ver la funcionalidad casi completa del proyecto, [ingresa al video](https://youtu.be/lI0zs9B2tho) que he subido a YOUTUBE.
@@ -10,7 +10,7 @@ Progressive Web Application en un Dispositivo Movil.
     <img src="https://github.com/KeyCuevasMelgarejo/CIENCIAS-MATH-APP-BACKEND---PREVIEW/blob/master/Demo.gif"/>
 </p>
 
-# CIENCIAS-MATH-APP-BACKEND - Descripción del Proyecto
+# Ciencias Math App Backend - Descripción del Proyecto
 **App creada para Ciencias Math, una empresa de enseñanza a domicilio, similar a aplicaciones como Uber, Globo, etc. La aplicación corresponde a los siguientes requerimientos:**
 - Gestion de Horarios.
 - Mapeo de Clientes.
