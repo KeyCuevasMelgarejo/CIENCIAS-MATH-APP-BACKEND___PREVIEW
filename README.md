@@ -2,13 +2,12 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# Ciencias Math App Backend - Demo
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP-BACKEND___PREVIEW) <img src="https://img.shields.io/badge/licencia-GNU-red.svg" alt="licencia" /> ![YouTube Video Views](https://img.shields.io/youtube/views/lI0zs9B2tho?label=Reproducciones&style=social)
+# Ciencias Math App Backend - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP-BACKEND___PREVIEW) <img src="https://img.shields.io/badge/licencia-GNU-red.svg" alt="licencia" /> 
 
 Progressive Web Application en un Dispositivo Movil.
 
 **Nota: Si quieres ver la funcionalidad casi completa del proyecto, [ingresa al video](https://youtu.be/lI0zs9B2tho) que he subido a YOUTUBE.
-
+![YouTube Video Views](https://img.shields.io/youtube/views/lI0zs9B2tho?label=Reproducciones&style=social)
 <p align="center"> 
     <img src="/Demo.gif"/>
 </p>
