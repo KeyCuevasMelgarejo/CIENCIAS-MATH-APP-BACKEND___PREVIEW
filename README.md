@@ -17,7 +17,7 @@ Progressive Web Application. Demo desde en un Dispositivo Móvil.
 </p>
 
 # Ciencias Math App Backend - Descripción del Proyecto
-**App creada para Ciencias Math, una empresa de enseñanza a domicilio, similar a aplicaciones como Uber, Globo, etc. La aplicación corresponde a los siguientes requerimientos:**
+**Aplicación web para la gestión de horarios, reserva y pago online de clases. La aplicación corresponde a los siguientes requerimientos:**
 - Gestion de Horarios.
 - Mapeo de Clientes.
 - Progressive Web Application.
