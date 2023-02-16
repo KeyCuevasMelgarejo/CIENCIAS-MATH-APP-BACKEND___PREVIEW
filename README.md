@@ -16,7 +16,7 @@ Progressive Web Application. Demo desde en un Dispositivo Móvil.
     <img src="/Demo.gif"/>
 </p>
 
-# Ciencias Math App Backend - Descripción del Proyecto
+# Descripción del Proyecto
 **Aplicación web para la gestión de horarios, reserva y pago online de clases. La aplicación corresponde a los siguientes requerimientos:**
 - Gestion de Horarios.
 - Mapeo de Clientes.
